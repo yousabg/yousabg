@@ -51,7 +51,7 @@ Below are some Projects/Assignments I've contributed to. Feel free to explore:
 
 ### 🚀 Wordle!
 One of the biggest projects I've embarked on is creating a fully functional recreation of Wordle. My game can be played at gyousab.pythonanywhere.com
-Please let me know if you would like to see the code for this, or if you have any reccomendations!
+Please let me know if you would like to see the code for this, or if you have any recommendations!
 
 ---
 
