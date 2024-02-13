@@ -45,7 +45,7 @@ Below are some projects I've contributed to. Feel free to explore:
 - [PokemonTextVersion](https://github.com/yousabg/PokemonTextVersion)
 - [Java School Codes](https://github.com/yousabg/JavaSchoolCodes)
 - [Job Search Helper](github.com/yousabg/JobSearchHelper)
-- [Java School Codes](https://github.com/yousabg/JavaSchoolCodes)
+- [Python Projects](https://github.com/yousabg/PythonProject)
 - [Java School Codes](https://github.com/yousabg/JavaSchoolCodes)
 
 ---
