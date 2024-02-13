@@ -41,10 +41,10 @@ I'm a **Computer Science & Data Science Student** passionate about technology an
 ### 🚀 My Projects
 Below are some projects I've contributed to. Feel free to explore:
 
-- [All my Android Studio (Java) Projects/Assignments (Most Notabley - Picture Fantasy)](https://github.com/yousabg/AndroidStudioProjects)
-- [PokemonTextVersion (Java)](https://github.com/yousabg/PokemonTextVersion)
+- [All my Android Studio Projects/Assignments (Most Notabley - Picture Fantasy)](https://github.com/yousabg/AndroidStudioProjects)
+- [PokemonTextVersion](https://github.com/yousabg/PokemonTextVersion)
 - [Java School Codes](https://github.com/yousabg/JavaSchoolCodes)
-- [Job Search Helper (Python)](github.com/yousabg/JobSearchHelper)
+- [Job Search Helper](github.com/yousabg/JobSearchHelper)
 - [Java School Codes](https://github.com/yousabg/JavaSchoolCodes)
 - [Java School Codes](https://github.com/yousabg/JavaSchoolCodes)
 
