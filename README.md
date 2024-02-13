@@ -39,7 +39,7 @@ I'm a **Computer Science & Data Science Student** passionate about technology an
 ---
 
 ### 🚀 My Projects
-Below are some projects I've contributed to. Feel free to explore:
+Below are some Projects/Assignments I've contributed to. Feel free to explore:
 
 - [All my Android Studio Projects/Assignments (Most Notabley - Picture Fantasy)](https://github.com/yousabg/AndroidStudioProjects)
 - [PokemonTextVersion](https://github.com/yousabg/PokemonTextVersion)
@@ -47,6 +47,11 @@ Below are some projects I've contributed to. Feel free to explore:
 - [Job Search Helper](github.com/yousabg/JobSearchHelper)
 - [Python Projects](https://github.com/yousabg/PythonProject)
 - [Algorithm Implementations](https://github.com/yousabg/Algorithm-Implementations/)
+---
+
+### 🚀 Wordle!
+One of the biggest projects I've embarked on is creating a fully functional recreation of Wordle. My game can be played at gyousab.pythonanywhere.com
+Please let me know if you would like to see the code for this, or if you have any reccomendations!
 
 ---
 
