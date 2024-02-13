@@ -11,8 +11,6 @@ I'm a **Computer Science & Data Science Student** passionate about technology an
 
 ---
 
-### 📄 Resume
-
 #### Education
 - **Bachelor of Science in Computer Science & Data Science**  
   Belmont University, Nashville, TN  
