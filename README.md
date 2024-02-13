@@ -1,7 +1,11 @@
 <h1 align="center">Hi, I'm Yousab! 👋</h1>
 <p align="center">
-  <a href="https://github.com/yousabg">GitHub</a> •
-  <a href="https://www.linkedin.com/in/yousab-grees-602a67232/">LinkedIn</a>
+  <a href="https://github.com/yousabg">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/yousab-grees-602a67232/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -11,48 +15,31 @@ I'm a **Computer Science & Data Science Student** passionate about technology an
 
 ---
 
-#### Education
-- **Bachelor of Science in Computer Science & Data Science**  
-  Belmont University, Nashville, TN  
-  Aug. 2021 – Dec. 2024  
+### 📄 Resume Highlights
+
+#### 🎓 Education
+- **BSc in Computer Science & Data Science**  
+  Belmont University, Nashville, TN *(Aug. 2021 – Dec. 2024)*  
   Cumulative GPA: 3.97
 
-- **Leadership/Clubs:**  
-  - Vice President, Belmont Data Experience  
-  - Member, Mathematical Association for Computing Machinery  
-  - Member, Orthodox Christian Campus Ministries  
-  - Member, Southwest Asian North African Student Association
+#### 🏆 Achievements
+- **Leadership/Clubs:** Vice President at Belmont Data Experience, Member at several associations.
+- **Awards:** Amazon-Sponsored Data Hackathon Winner, Scarlett Family Foundation Scholarship, Dean’s List (5x).
 
-- **Awards:**  
-  - Amazon-Sponsored Data Hackathon Winner  
-  - Scarlett Family Foundation Scholarship  
-  - Dean’s List (5x)
+#### 💼 Experience
+- **Software Engineer Internship** at United Methodist Communications, Nashville, TN.
+- **Programming Tutor** at Belmont University, Nashville, TN.
+- **Shift Supervisor RX** at CVS Pharmacy, Nashville, TN.
+- **Engineering Internship** at NAZA Opportunity Now, Nashville, TN.
 
-#### Experience
-- **Software Engineer Internship**  
-  United Methodist Communications, Nashville, TN  
-  Aug. 2022 – Present
-
-- **Programming Tutor**  
-  Belmont University, Nashville, TN  
-  Aug. 2022 – May 2023
-
-- **Shift Supervisor RX**  
-  CVS Pharmacy, Nashville, TN  
-  June 2021 – July 2022
-
-- **Engineering Internship**  
-  NAZA Opportunity Now, Nashville, TN  
-  June 2018 – July 2019
-
-#### Skills
-- **Programming Languages:** Java, Python, C++, C, R, SQL, JavaScript
-- **Programs/Frameworks:** Flask, Android Studio, Google Firebase, CAD, WordPress, Slack, Microsoft Azure
+#### 💻 Skills
+- **Languages:** Java, Python, C++, C, R, SQL, JavaScript.
+- **Frameworks/Tools:** Flask, Android Studio, Google Firebase, CAD, WordPress, Slack, Microsoft Azure.
 
 ---
 
 ### 🚀 My Projects
-Here are some projects I've worked on. Feel free to check them out:
+Below are some projects I've contributed to. Feel free to explore:
 
 - [Project 1 Title](Link to Project)
 - [Project 2 Title](Link to Project)
@@ -61,10 +48,17 @@ Here are some projects I've worked on. Feel free to check them out:
 ---
 
 ### 📫 How to reach me
-- 📧 Email: greesyousab@gmail.com
-- 📞 Phone: (615) 839-0644
+- 📧 Email: `greesyousab@gmail.com`
+- 📞 Phone: `(615) 839-0644`
 - 📍 Location: Nashville, TN
 
 ---
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yousab-grees-602a67232/).
+<p align="center">
+  Connect with me on LinkedIn!.
+</p>
+<p align="center">
+  <a href="mailto:greesyousab@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
