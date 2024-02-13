@@ -1,4 +1,4 @@
-<h1>Hi, I'm Yousab! <br/><a href="https://github.com/yousabg">Programmer</a>, <a href="https://www.linkedin.com/in/yousab-grees-602a67232/">Comp Sci & Data Sci Student</a></h1>
+<h1>Hi, I'm Yousab! <br/><a href="https://github.com/yousabg"></a>, <a href="https://www.linkedin.com/in/yousab-grees-602a67232/">Comp Sci & Data Sci Student</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
