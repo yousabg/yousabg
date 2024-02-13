@@ -53,12 +53,3 @@ Below are some projects I've contributed to. Feel free to explore:
 - 📍 Location: Nashville, TN
 
 ---
-
-<p align="center">
-  Connect with me on LinkedIn!.
-</p>
-<p align="center">
-  <a href="mailto:greesyousab@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
