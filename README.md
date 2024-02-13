@@ -42,7 +42,7 @@ I'm a **Computer Science & Data Science Student** passionate about technology an
 Below are some projects I've contributed to. Feel free to explore:
 
 - [All my Android Studio Projects/Assignments (Most Notabley - Picture Fantasy](https://github.com/yousabg/AndroidStudioProjects)
-- [Project 2 Title](Link to Project)
+- [PokemonTextVersion](https://github.com/yousabg/PokemonTextVersion)
 - [Project 3 Title](Link to Project)
 
 ---
