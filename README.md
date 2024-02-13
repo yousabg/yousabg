@@ -47,6 +47,7 @@ Below are some Projects/Assignments I've contributed to. Feel free to explore:
 - [Job Search Helper](github.com/yousabg/JobSearchHelper)
 - [Python Projects](https://github.com/yousabg/PythonProject)
 - [Algorithm Implementations](https://github.com/yousabg/Algorithm-Implementations/)
+- [Nashville Crashes Dataset Research](https://github.com/yousabg/Nashville-Crashes-Dataset-Research)
 ---
 
 ### 🚀 Wordle!
