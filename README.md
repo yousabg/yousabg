@@ -43,7 +43,7 @@ Below are some projects I've contributed to. Feel free to explore:
 
 - [All my Android Studio Projects/Assignments (Most Notabley - Picture Fantasy](https://github.com/yousabg/AndroidStudioProjects)
 - [PokemonTextVersion](https://github.com/yousabg/PokemonTextVersion)
-- [Project 3 Title](Link to Project)
+- [Java School Codes](https://github.com/yousabg/JavaSchoolCodes)
 
 ---
 
