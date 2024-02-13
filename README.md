@@ -41,7 +41,7 @@ I'm a **Computer Science & Data Science Student** passionate about technology an
 ### 🚀 My Projects
 Below are some projects I've contributed to. Feel free to explore:
 
-- [Project 1 Title](Link to Project)
+- [All my Android Studio Projects/Assignments (Most Notabley - Picture Fantasy](https://github.com/yousabg/AndroidStudioProjects)
 - [Project 2 Title](Link to Project)
 - [Project 3 Title](Link to Project)
 
