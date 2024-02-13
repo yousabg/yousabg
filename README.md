@@ -27,7 +27,7 @@ I'm a **Computer Science & Data Science Student** passionate about technology an
 - **Awards:** Amazon-Sponsored Data Hackathon Winner, Scarlett Family Foundation Scholarship, Dean’s List (5x).
 
 #### 💼 Experience
-- **Software Engineer Internship** at United Methodist Communications, Nashville, TN.
+- **Web Hosting Internship** at United Methodist Communications, Nashville, TN.
 - **Programming Tutor** at Belmont University, Nashville, TN.
 - **Shift Supervisor RX** at CVS Pharmacy, Nashville, TN.
 - **Engineering Internship** at NAZA Opportunity Now, Nashville, TN.
