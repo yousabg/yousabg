@@ -44,7 +44,7 @@ Below are some Projects/Assignments I've contributed to. Feel free to explore:
 - [All my Android Studio Projects/Assignments (Most Notably - Picture Fantasy)](https://github.com/yousabg/AndroidStudioProjects)
 - [PokemonTextVersion](https://github.com/yousabg/PokemonTextVersion)
 - [Java School Codes](https://github.com/yousabg/JavaSchoolCodes)
-- [Job Search Helper](JobSearchHelper)
+- [Job Search Helper](/../JobSearchHelper)
 - [Python Projects](https://github.com/yousabg/PythonProject)
 - [Algorithm Implementations](https://github.com/yousabg/Algorithm-Implementations/)
 - [Nashville Crashes Dataset Research](https://github.com/yousabg/Nashville-Crashes-Dataset-Research)
