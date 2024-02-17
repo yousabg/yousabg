@@ -45,7 +45,7 @@ Below are some Projects/Assignments I've contributed to. Feel free to explore:
 - [PokemonTextVersion](/../../../PokemonTextVersion)
 - [Java School Codes](/../../../JavaSchoolCodes)
 - [Job Search Helper](/../../../JobSearchHelper)
-- [Python Projects](/../../../PythonProject)
+- [Python Projects](/../../../PythonProjects)
 - [Algorithm Implementations](/../../../Algorithm-Implementations/)
 - [Nashville Crashes Dataset Research](/../../../Nashville-Crashes-Dataset-Research)
 ---
